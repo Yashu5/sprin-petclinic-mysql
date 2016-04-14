@@ -1,5 +1,4 @@
 CREATE DATABASE IF NOT EXISTS petclinic;
-GRANT ALL PRIVILEGES ON petclinic.* TO petclinic@172.30.176.6 IDENTIFIED BY 'petclinic';
 
 USE petclinic;
 
